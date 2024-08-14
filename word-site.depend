@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1716382208 source:d:\c\word--resite\word-site\main.c
+	<stdio.h>
+	<stdlib.h>
+	"y.h"
+
+1716204806 d:\c\word--resite\word-site\hanshu.h
+
+1716739849 d:\c\word--resite\word-site\y.h
+
+1716740094 source:d:\c\word--resite\word-site\y.c
+	"stdio.h"
+	"y.h"
+	<windows.h>
+	<time.h>
+	<string.h>
+
+1720363477 source:d:\c\3\ÐÂÐÍ.c
+	<stdio.h>
+	<Windows.h>
+
